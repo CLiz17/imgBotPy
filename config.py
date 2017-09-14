@@ -1,0 +1,9 @@
+headers = { 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0' }
+catsUrl = 'http://bigpicture.ru/wp-content/uploads/2014/06/lolcats'
+girlsUrl = 'http://cdn.fishki.net/upload/post/201408/25/1297423/'
+update_id = None
+token = '433112881:AAFAvwyhbsBShiFmxVFZp9pisRPJAluUG_Q'
+START_GIRL = 1
+START_CAT = 10
+MAX_CAT = 100
+MAX_GIRL = 98
